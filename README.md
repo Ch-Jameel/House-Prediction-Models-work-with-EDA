@@ -51,6 +51,6 @@ With a set of well-tuned models in hand, we embark on the journey to choose the 
 
 ## Contact
 
-Got questions or ideas? Reach out to us at [your-email@example.com]. Let's connect and discuss how we can make house price predictions more accurate and valuable.
+Got questions or ideas? Reach out to us at https://www.linkedin.com/in/m-jameel-40a977224/. Let's connect and discuss how we can make house price predictions more accurate and valuable.
 
 Thank you for visiting our project! 🏡✨
